@@ -12,3 +12,7 @@ If you have rust installed, simply execute `cargo run` and start playing!
 
 - docker build -t game .
 - docker run -it game
+
+### Demo
+
+<img src="https://github.com/santiagoperaza/guessing-game/assets/36051251/3cd5ed47-7d4c-4615-a3b0-6631185c6c46" width="500">
